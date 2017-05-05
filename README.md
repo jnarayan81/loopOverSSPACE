@@ -3,7 +3,6 @@ Run SSPACE in loop
 
 jitendra@jitendra-UNLOCK-INSTALL[SSPACE-LongRead_v1-1] `perl loopOverSSPACE.pl -i contigs.fasta -o OUT -c loopOverSSPACE.conf -l 5
 -t 6 -p pacbio.fastq`
-/home/jitendra/SSpace/SSPACE-LongRead_v1-1
 
 Working on 5 round for scaffoldings 
 
