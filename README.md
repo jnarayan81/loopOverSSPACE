@@ -1,6 +1,8 @@
 # loopOverSSPACE
 Run SSPACE in loop
 
+Save the script and config file in SSPACE-LongRead_v1-1 folder, and as follow
+
 jitendra@jitendra-UNLOCK-INSTALL[SSPACE-LongRead_v1-1] `perl loopOverSSPACE.pl -i contigs.fasta -o OUT -c loopOverSSPACE.conf -l 5
 -t 6 -p pacbio.fastq`
 
